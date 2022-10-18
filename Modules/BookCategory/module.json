@@ -1,0 +1,13 @@
+{
+    "name": "BookCategory",
+    "alias": "bookcategory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BookCategory\\Providers\\BookCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

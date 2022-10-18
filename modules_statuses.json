@@ -1,0 +1,9 @@
+{
+    "WebSetting": true,
+    "RolesPermissions": true,
+    "Users": true,
+    "Author": true,
+    "BookCategory": true,
+    "Book": true,
+    "Orders": true
+}
